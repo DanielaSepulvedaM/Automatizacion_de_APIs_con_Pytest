@@ -1,0 +1,12 @@
+# Requerimientos para el proyecto de testing de API, incluyendo:
+# - pytest para testing, 
+# - requests para hacer llamadas HTTP, 
+# - pydantic para validación de modelos, 
+# - FastAPI para la API local y 
+# - uvicorn para correr la API local.
+
+pytest
+requests
+pydantic
+FastAPI
+uvicorn
